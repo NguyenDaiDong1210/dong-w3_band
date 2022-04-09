@@ -1,0 +1,7 @@
+.toast__title{
+    margin: 0 20px;
+    color: rosybrown;
+}
+.toast{
+    display: flex;
+}
